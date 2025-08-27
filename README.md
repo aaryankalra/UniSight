@@ -1,7 +1,7 @@
 # UniSight
 
 The insights you see here are generated from a publicly available **student admission dataset**.  
-It contains details such as **GRE, TOEFL, CGPA, SOP, LOR, Research Experience, and University Ranks**.  
+It contains details such as **GRE, TOEFL, CGPA, SOP, LOR, Research Experience and University Ranks**.  
 Filters you apply will help you explore how students with similar profiles performed in university admissions.
 
 ### Dataset Used
