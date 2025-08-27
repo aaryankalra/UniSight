@@ -229,3 +229,11 @@ elif st.session_state.page == "About":
     st.write("The insights you see here are generated from a **publicly available dataset**.")
     st.write("It contains details such as GRE, TOEFL, CGPA, SOP, LOR, Research Experience and University Rank.")
     st.write("Filters you apply will help you explore how students with similar profiles performed in university admissions based on the dataset.")
+    
+    st.write("")
+    st.write("")
+    
+    st.write('##### Dataset Used')
+    st.write("**Graduate Admission 2**")
+    st.write("Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019")
+    st.link_button("Visit", "https://www.kaggle.com/datasets/mohansacharya/graduate-admissions")
